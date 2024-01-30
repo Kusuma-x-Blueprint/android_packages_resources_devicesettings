@@ -51,10 +51,10 @@
     <string name="touchscreen_swipe_left_title">Usap ke kiri</string>
     <string name="user_aware_display_title">Tampilan pengguna sadar</string>
     <string name="user_aware_display_summary">Biarkan layar menyala ketika pengguna sedang berada di depan layar</string>
-    <string name="ambient_display_title">Tampilan standby</string>
-    <string name="ambient_display_enable_title">Gunakan tampilan standby</string>
+    <string name="ambient_display_title">Tampilan ambien</string>
+    <string name="ambient_display_enable_title">Gunakan tampilan ambien</string>
     <string name="ambient_display_enable_summary">Hidupkan layar saat Anda menerima notifikasi</string>
-    <string name="ambient_display_gestures_title">Gerakan tampilan standby</string>
+    <string name="ambient_display_gestures_title">Gestur tampilan ambien</string>
     <string name="ambient_display_gestures_summary">Tambahan gerakan untuk membangunkan layar</string>
     <string name="ambient_display_summary">Hidupkan layar saat Anda menerima notifikasi</string>
     <string name="ambient_display_summary_on">Layar akan hidup ketika Anda menerima notifikasi</string>

@@ -15,6 +15,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="wake_on_gesture_title">Bangunkan saat gestur</string>
+    <string name="wake_on_gesture_title">Bangun saat gestur</string>
     <string name="wake_on_gesture_summary">Bangunkan perangkat alih-alih mengedipkan notifikasi saat gestur terjadi</string>
 </resources>
